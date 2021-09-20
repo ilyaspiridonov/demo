@@ -1,0 +1,24 @@
+pretranslate:
+  segments:
+    ignore_patterns:
+    - !ruby/regexp /{%\s((?!{%)[\s\S])*\s%}/
+    ignore_frontmatter_keys:
+    - "layout"
+    - "permalink"
+    - "noindex"
+    - "date"
+    - "override"
+    - "codelabs"
+    - "tags"
+    - "authors"
+    - "updated"
+    - "hero" 
+    - "thumbnail"
+    - "feedback"
+    - "layout"
+
+  paths:
+  - source: .
+    include:
+      - "pretranslate/*.*"
+      
