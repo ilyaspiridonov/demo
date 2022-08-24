@@ -55,8 +55,7 @@ La ráfaga más grande es la ventana de la sesión con la máxima puntuación ac
   </source></source></video>
   <figcaption class="w-figcaption">Ejemplo de ventanas de sesión. Las barras azules representan las puntuaciones de cada cambio de diseño individual.</figcaption></figure>
 
-{% Aside 'caution' %} Anteriormente, CLS medía la suma total de *todos los puntajes de cambio de diseño individuales* que ocurrieron durante toda la vida útil de la página. Para ver qué herramientas aún brindan la capacidad de comparar con la implementación original, consulte [Cambio de diseño acumulativo en evolución en las herramientas web](/cls-web-tooling) . {% endAside %}
-
+TEST
 ### ¿Qué es una buena puntuación CLS?
 
 Para proporcionar una buena experiencia de usuario, los sitios deben esforzarse por tener una puntuación CLS de **0,1** o menos. Para asegurarse de alcanzar este objetivo para la mayoría de sus usuarios, un buen umbral para medir es el **percentil 75** de cargas de página, segmentado en dispositivos móviles y de escritorio.
