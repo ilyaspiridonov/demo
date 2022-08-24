@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post UPDATED
 title: Cambio de diseño acumulativo (CLS)
 authors:
   - philipwalton
@@ -17,7 +17,7 @@ tags:
   - web-vitals
 ---
 
-TEST UPDATE {% Banner 'caution', 'body' %} **1 de junio de 2021:** la implementación de CLS ha cambiado. Para obtener más información sobre los motivos del cambio, consulte [Evolución de la métrica CLS](/evolving-cls) . {% endBanner %}
+{% Banner 'caution', 'body' %} **1 de junio de 2021:** la implementación de CLS ha cambiado. Para obtener más información sobre los motivos del cambio, consulte [Evolución de la métrica CLS](/evolving-cls) . {% endBanner %}
 
 {% Aside 'key-term' %} El cambio de diseño acumulativo (CLS) es una métrica importante centrada en el usuario para medir [la estabilidad visual](/user-centric-performance-metrics/#types-of-metrics) porque ayuda a cuantificar la frecuencia con la que los usuarios experimentan cambios de diseño inesperados: un CLS bajo ayuda a garantizar que la página sea [agradable](/user-centric-performance-metrics/#questions) . {% endAside %}
 
