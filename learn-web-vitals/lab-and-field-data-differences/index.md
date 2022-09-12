@@ -17,7 +17,7 @@ tags:
   - web-vitals
 ---
 
-Google provides [a number of tools](/vitals-tools/) to help site owners monitor
+Google ~ \\~ provides [a number of tools](/vitals-tools/) to help site owners monitor
 their [Core Web Vitals](/vitals/#core-web-vitals) scores. These tools fall into
 two main categories:
 
